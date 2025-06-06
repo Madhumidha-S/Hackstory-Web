@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hackstory-Web/static/css/main.e2f9333c.css",
+    "main.js": "/Hackstory-Web/static/js/main.87bda23d.js",
+    "index.html": "/Hackstory-Web/index.html",
+    "main.e2f9333c.css.map": "/Hackstory-Web/static/css/main.e2f9333c.css.map",
+    "main.87bda23d.js.map": "/Hackstory-Web/static/js/main.87bda23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f9333c.css",
+    "static/js/main.87bda23d.js"
+  ]
+}
